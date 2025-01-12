@@ -33,6 +33,6 @@ Visualizing the forecasted values and comparing them with actual data.
 * Improving the model by incorporating more advanced techniques such as deep learning.
 * Exploring the impact of external factors (e.g., weather, events) on crime rates.
 * Deploying the model as a web application for real-time crime forecasting.
-* 
+  
 ## Contributing
 Feel free to contribute to this project by submitting pull requests or suggesting improvements.
